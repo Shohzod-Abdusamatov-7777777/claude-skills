@@ -9,9 +9,9 @@ A collection of specialized skills for Claude and AI agents. Skills provide doma
 npx skills add Shohzod-Abdusamatov-7777777/claude-skills
 
 # Or install individual skills
-npx skills add Shohzod-Abdusamatov-7777777/claude-skills/vue-expert
-npx skills add Shohzod-Abdusamatov-7777777/claude-skills/vue-fsd
-npx skills add Shohzod-Abdusamatov-7777777/claude-skills/tailwind-v4
+npx skills add Shohzod-Abdusamatov-7777777/claude-skills/skills/vue-expert
+npx skills add Shohzod-Abdusamatov-7777777/claude-skills/skills/vue-fsd
+npx skills add Shohzod-Abdusamatov-7777777/claude-skills/skills/tailwind-v4
 ```
 
 ## What are Skills?
@@ -28,9 +28,9 @@ Skills are structured knowledge modules that extend AI capabilities in specific 
 
 | Skill | Description |
 |-------|-------------|
-| [vue-expert](./vue-expert/SKILL.md) | Vue 3, Composition API, Nuxt 3, Pinia, Quasar, Capacitor, PWA, Vite |
-| [vue-fsd](./vue-fsd/SKILL.md) | Feature-Sliced Design architecture for scalable Vue 3 applications |
-| [tailwind-v4](./tailwind-v4/SKILL.md) | Tailwind CSS v4 with @theme directive, OKLCH colors, Vite integration |
+| [vue-expert](./skills/vue-expert/SKILL.md) | Vue 3, Composition API, Nuxt 3, Pinia, Quasar, Capacitor, PWA, Vite |
+| [vue-fsd](./skills/vue-fsd/SKILL.md) | Feature-Sliced Design architecture for scalable Vue 3 applications |
+| [tailwind-v4](./skills/tailwind-v4/SKILL.md) | Tailwind CSS v4 with @theme directive, OKLCH colors, Vite integration |
 
 ## Usage
 
