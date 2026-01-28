@@ -1,5 +1,5 @@
 ---
-name: tailwind-v4
+name: tailwindv4
 description: Tailwind CSS v4 with CSS-first configuration, @theme directive, OKLCH colors, and Vite integration. Use for modern utility-first styling with the new v4 architecture.
 triggers:
   - Tailwind v4
