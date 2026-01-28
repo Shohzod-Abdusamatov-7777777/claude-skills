@@ -2,6 +2,18 @@
 
 A collection of specialized skills for Claude and AI agents. Skills provide domain-specific expertise and context that AI assistants can load on-demand to deliver more accurate, consistent, and high-quality responses.
 
+## Installation
+
+```bash
+# Install all skills
+npx skills add Shohzod-Abdusamatov-7777777/claude-skills
+
+# Or install individual skills
+npx skills add Shohzod-Abdusamatov-7777777/claude-skills/vue-expert
+npx skills add Shohzod-Abdusamatov-7777777/claude-skills/vue-fsd
+npx skills add Shohzod-Abdusamatov-7777777/claude-skills/tailwind-v4
+```
+
 ## What are Skills?
 
 Skills are structured knowledge modules that extend AI capabilities in specific domains. Each skill contains:
