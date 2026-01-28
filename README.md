@@ -1,6 +1,6 @@
 # Agent Skills
 
-A collection of specialized skills for Claude and AI agents. Skills provide domain-specific expertise and context that AI assistants can load on-demand to deliver more accurate, consistent, and high-quality responses.
+A collection of specialized skills for Claude and AI agents, including those focused on modern frontend development. Skills provide domain-specific expertise and context that AI assistants can load on-demand to deliver more accurate, consistent, and high-quality responses.
 
 ## Installation
 
