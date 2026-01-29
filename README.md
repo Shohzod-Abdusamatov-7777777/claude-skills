@@ -11,6 +11,7 @@ npx skills add Shohzod-Abdusamatov-7777777/agent-skills
 # Or install individual skills
 npx skills add Shohzod-Abdusamatov-7777777/agent-skills/skills/vue-expert
 npx skills add Shohzod-Abdusamatov-7777777/agent-skills/skills/vue-fsd
+npx skills add Shohzod-Abdusamatov-7777777/agent-skills/skills/vue3-naiveui-fsd
 npx skills add Shohzod-Abdusamatov-7777777/agent-skills/skills/tailwind-v4
 ```
 
@@ -30,6 +31,7 @@ Skills are structured knowledge modules that extend AI capabilities in specific 
 |-------|-------------|
 | [vue-expert](./skills/vue-expert/SKILL.md) | Vue 3, Composition API, Nuxt 3, Pinia, Quasar, Capacitor, PWA, Vite |
 | [vue-fsd](./skills/vue-fsd/SKILL.md) | Feature-Sliced Design architecture for scalable Vue 3 applications |
+| [vue3-naiveui-fsd](./skills/vue3-naiveui-fsd/SKILL.md) | Vue 3 + Naive UI + FSD with TypeScript, Clean Code & SOLID principles |
 | [tailwind-v4](./skills/tailwind-v4/SKILL.md) | Tailwind CSS v4 with @theme directive, OKLCH colors, Vite integration |
 
 ## Usage

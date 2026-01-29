@@ -10,12 +10,11 @@ triggers:
   - feature sliced
   - vue 3
   - composition api
-  - mko
 ---
 
 # Vue 3 + Naive UI + FSD Senior Development Skill
 
-Expert-level skill for building production-ready Vue 3 applications with Naive UI, Feature-Sliced Design architecture, TypeScript, and industry best practices. Based on real-world mko_front project patterns.
+Expert-level skill for building production-ready Vue 3 applications with Naive UI, Feature-Sliced Design architecture, TypeScript, and industry best practices.
 
 ## Tech Stack
 
